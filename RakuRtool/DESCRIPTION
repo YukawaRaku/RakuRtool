@@ -1,0 +1,19 @@
+Package: RakuRtool
+Type: Package
+Title: Scientific Dimensionality Reduction Visualization Tools
+Version: 0.1.0
+Authors@R: 
+    person("Yukawa", "Raku", 
+           email = "xxx@xx.com", 
+           role = c("aut", "cre"))
+Description: A specialized tool for rapidly generating publication-quality 
+    dimensionality reduction plots (PCA, t-SNE, UMAP), tailored for research 
+    in structural biology and biostatistics. 
+    Supports automatic grouping, scientific aesthetics, and flexible customization 
+    for scientific presentations and publications.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports: ggplot2, ggrepel, viridis, ggnewscale, uwot, Rtsne, gridExtra
+Roxygen: list(markdown = TRUE)
