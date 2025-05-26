@@ -52,7 +52,7 @@ SampleC,0.37,6.0,1.3
 ```
 ### Label File (`label.csv`)
 
-- Should be a **single-column CSV file** (with or without a header).
+- Should be a **single-column CSV file** (The **first column** should contain unique sample names).
 - The order of labels must exactly match the sample order in the features file.
 - Labels can be numeric (for continuous variables) or categorical (for group analysis).
 
