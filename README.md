@@ -63,3 +63,11 @@ Number
 0.74
 0.88
 ```
+###Result
+<img width="416" height="297" alt="image" src="https://github.com/user-attachments/assets/bdfec65d-64ec-437b-b286-833d8fdbaf56" />
+
+
+<img width="372" height="299" alt="image" src="https://github.com/user-attachments/assets/098f3b80-7b41-4c0e-a233-809927336a25" />
+
+
+
